@@ -58,15 +58,13 @@ div {
 
 {{EmbedLiveSample("Ejemplo", 140, 140)}}
 
-## Especificación
+## Especificaciones
 
-| Especificación                                                                                                           | Estado                                           | Comentario          |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------- |
-| {{SpecName("CSS Logical Properties", "#propdef-border-block-width", "border-block-width")}} | {{Spec2("CSS Logical Properties")}} | Definición inicial. |
+{{Specifications}}
 
 ## Compatibilidad en navegadores
 
-{{Compat("css.properties.border-block-width")}}
+{{Compat}}
 
 ## Mira también
 

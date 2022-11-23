@@ -123,10 +123,7 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Global_attribut
 
 ## Especificaciones
 
-| Especificación                                                                                           | Estado                           | Comentario         |
-| -------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------ |
-| {{SpecName('HTML WHATWG', 'forms.html#the-dialog-element', '&lt;dialog&gt;')}} | {{Spec2('HTML WHATWG')}} |                    |
-| {{SpecName('HTML5.1', 'semantics.html#the-dialog-element', '&lt;dialog&gt;')}} | {{Spec2('HTML5.1')}}     | Definición inicial |
+{{Specifications}}
 
 ## Compatibilidad de navegadores
 
@@ -137,6 +134,6 @@ The compatibility table in this page is generated from structured data. If you'd
 ## Ver también
 
 - [Formularios HTML](/es/docs/Web/Guide/HTML/Forms).
-- El evento {{event("close")}}
-- El evento {{event("cancel")}}
+- El evento [`close`](/es/docs/Web/Reference/Events/close)
+- El evento [`cancel`](/es/docs/Web/Reference/Events/cancel)
 - El pseudo-elemento {{cssxref("::backdrop")}}

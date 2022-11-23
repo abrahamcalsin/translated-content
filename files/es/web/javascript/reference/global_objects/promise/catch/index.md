@@ -149,16 +149,13 @@ p2.then(function (value) {
 });
 ```
 
-## Especificación
+## Especificaciones
 
-| Specification                                                                                                | Status                       | Comment                                |
-| ------------------------------------------------------------------------------------------------------------ | ---------------------------- | -------------------------------------- |
-| {{SpecName('ES2015', '#sec-promise.prototype.catch', 'Promise.prototype.catch')}} | {{Spec2('ES2015')}}     | Definición inicial en el standar ECMA. |
-| {{SpecName('ESDraft', '#sec-promise.prototype.catch', 'Promise.prototype.catch')}} | {{Spec2('ESDraft')}} |                                        |
+{{Specifications}}
 
 ## Compatibilidad de navegadores
 
-{{Compat("javascript.builtins.promise.catch")}}
+{{Compat}}
 
 ## Vea también
 

@@ -78,10 +78,7 @@ Usando este manejador de evento tu pagina previene que Firefox cambie el cache d
 
 ## Especificaciones
 
-| Especificacion                                                                                           | Estado                           | Comentario         |
-| -------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------ |
-| {{SpecName("HTML WHATWG", "indices.html#event-beforeunload", "beforeunload")}} | {{Spec2("HTML WHATWG")}} |                    |
-| {{SpecName("HTML5 W3C", "browsers.html#unloading-documents", "beforeunload")}} | {{Spec2("HTML5 W3C")}}     | Definicion inicial |
+{{Specifications}}
 
 ## Compatibilidad con navegadores
 
@@ -89,9 +86,9 @@ Usando este manejador de evento tu pagina previene que Firefox cambie el cache d
 
 ## Mire tambien
 
-- {{Event("DOMContentLoaded")}}
-- {{Event("readystatechange")}}
-- {{Event("load")}}
-- {{Event("unload")}}
+- [`DOMContentLoaded`](/es/docs/Web/Reference/Events/DOMContentLoaded)
+- [`readystatechange`](/es/docs/Web/Reference/Events/readystatechange)
+- [`load`](/es/docs/Web/Reference/Events/load)
+- [`unload`](/es/docs/Web/Reference/Events/unload)
 - [Unloading Documents — Confirmacion para descargar un documento](http://www.whatwg.org/specs/web-apps/current-work/#prompt-to-unload-a-document)
 - [Remover mensajes personalizados en dialogos onbeforeload despues de Chrome 51](https://developers.google.com/web/updates/2016/04/chrome-51-deprecations?hl=en#remove_custom_messages_in_onbeforeload_dialogs)

@@ -104,13 +104,11 @@ console.log(digestHex);
 
 ## Especificaciones
 
-| Especificación                                                                                                           | Estado                               | Comentario          |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ------------------- |
-| {{SpecName('Web Crypto API', '#dfn-SubtleCrypto-method-digest', 'SubtleCrypto.digest()')}} | {{Spec2('Web Crypto API')}} | Definición inicial. |
+{{Specifications}}
 
 ## Compatibilidad del navegador
 
-{{Compat("api.SubtleCrypto.digest")}}
+{{Compat}}
 
 > **Nota:** En Chrome 60, se añadió una característica que deshabilita crypto.subtle para conexiones no TLS.
 

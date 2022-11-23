@@ -30,7 +30,7 @@ La nueva versión de la interfaz de `MediaQueryList` hereda las propiedades de s
 ### Controladores de eventos
 
 - {{domxref("MediaQueryList.onchange")}}
-  - : Una propiedad de controlador de eventos que representa una función que se invoca cuando se desencadena el evento {{event("change")}}, es decir, cuando cambia el estado del soporte de consulta de medios. El objeto de evento es una instancia {{domxref("MediaQueryListEvent")}}, que se reconoce como una instancia de `MediaListQuery` en navegadores antiguos, para propósitos de compatibilidad con versiones anteriores.
+  - : Una propiedad de controlador de eventos que representa una función que se invoca cuando se desencadena el evento [`change`](/es/docs/Web/Reference/Events/change), es decir, cuando cambia el estado del soporte de consulta de medios. El objeto de evento es una instancia {{domxref("MediaQueryListEvent")}}, que se reconoce como una instancia de `MediaListQuery` en navegadores antiguos, para propósitos de compatibilidad con versiones anteriores.
 
 ## Métodos
 
@@ -71,9 +71,7 @@ mql.addListener(screenTest);
 
 ## Especificaciones
 
-| Especificaciones                                                                                         | Estado                           | Comentario         |
-| -------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------ |
-| {{SpecName("CSSOM View", "#the-mediaquerylist-interface", "MediaQueryList")}} | {{Spec2("CSSOM View")}} | Initial definition |
+{{Specifications}}
 
 ## Compatibilidad del navegador
 

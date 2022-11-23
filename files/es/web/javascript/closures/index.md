@@ -30,10 +30,13 @@ Ejecuta el código usando [este enlace de JSFiddle](http://jsfiddle.net/xAFs9/3/
 
 En este ejemplo en particular, el ámbito se llama _ámbito de la función_, porque la variable es accesible solo dentro del cuerpo de la función donde se declara.
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 ### Scope con let y const
 =======
+=======
+>>>>>>> c3b28d9eafeeac631bba2c46ec0ddcfe3fd43bfa
 ### Alcance con let y const
 >>>>>>> bbd6c476ea1229f216101afdbe4ca543066f7aa5
 
@@ -63,10 +66,13 @@ console.log(x); // ReferenceError: x is not defined
 
 En esencia, los bloques se tratan finalmente como ámbitos en ES6, pero sólo si se declaran variables con `let` o `const`. Además, ES6 introdujo [modules](/es/docs/Web/JavaScript/Guide/Modules), que introdujo otro tipo de ámbito. Los _closures_ son capaces de capturar variables en todos estos ámbitos, que introduciremos más adelante.
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 ## Clausuras
 =======
+=======
+>>>>>>> c3b28d9eafeeac631bba2c46ec0ddcfe3fd43bfa
 ## Closure
 >>>>>>> bbd6c476ea1229f216101afdbe4ca543066f7aa5
 

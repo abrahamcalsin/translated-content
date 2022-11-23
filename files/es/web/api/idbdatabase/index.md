@@ -52,7 +52,7 @@ Inherits from: [EventTarget](/es/docs/DOM/EventTarget)
 - {{domxref("IDBDatabase.onabort")}}
   - : Fires when access of the database is aborted.
 - {{domxref("IDBDatabase.onclose")}}
-  - : Fires when the {{event("close")}} event occurs; this happens when the database is unexpectedly closed, such as during application shutdown.
+  - : Fires when the [`close`](/es/docs/Web/Reference/Events/close) event occurs; this happens when the database is unexpectedly closed, such as during application shutdown.
 - {{domxref("IDBDatabase.onerror")}}
   - : Fires when access to the database fails.
 - {{domxref("IDBDatabase.onversionchange")}}
@@ -116,12 +116,9 @@ This next line opens up a transaction on the Database, then opens an object stor
     var objectStore = db.transaction('toDoList').objectStore('toDoList');
 ```
 
-## Specifications
+## Especificaciones
 
-| Specification                                                                            | Status                           | Comment         |
-| ---------------------------------------------------------------------------------------- | -------------------------------- | --------------- |
-| {{SpecName('IndexedDB', '#idl-def-IDBDatabase', 'IDBDatabase')}}     | {{Spec2('IndexedDB')}}     | Initial version |
-| {{SpecName("IndexedDB 2", "#database-interface", "IDBDatabase")}} | {{Spec2("IndexedDB 2")}} |                 |
+{{Specifications}}
 
 ## Browser compatibility
 

@@ -16,26 +16,13 @@ Por defecto, es decir cuando el atributo no es específicado, CORS no se usa. La
 
 Una clave inválida y un string vacío serán gestionados como una clave anónima.
 
-Especificaciones
+## Especificaciones
 
-| Especificación                                                                                                                           | Estado                           | Comentario |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------- |
-| {{SpecName('HTML WHATWG', 'infrastructure.html#cors-settings-attributes', 'CORS settings attributes')}} | {{Spec2('HTML WHATWG')}} |            |
-| {{SpecName('HTML WHATWG', 'embedded-content.html#attr-img-crossorigin', 'crossorigin')}}                     | {{Spec2('HTML WHATWG')}} |            |
+{{Specifications}}
 
 ## Compatibilidad de navegadores
 
-### script crossorigin
-
-{{Compat("html.elements.script.crossorigin")}}
-
-### video crossorigin
-
-{{Compat("html.elements.video.crossorigin")}}
-
-### link crossorigin
-
-{{Compat("html.elements.link.crossorigin")}}
+{{Compat}}
 
 ## Ver también
 

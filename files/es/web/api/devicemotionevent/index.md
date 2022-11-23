@@ -36,9 +36,7 @@ window.addEventListener('devicemotion', function(event) {
 
 ## Especificaciones
 
-| Especificación                                                                                           | Estado                                   | Comentario          |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------- |
-| {{SpecName("Device Orientation", "#devicemotionevent", "DeviceMotionEvent")}} | {{Spec2("Device Orientation")}} | Initial definition. |
+{{Specifications}}
 
 ## Compativilidad con los navegadores
 
@@ -46,8 +44,8 @@ window.addEventListener('devicemotion', function(event) {
 
 ## Ver también
 
-- {{Event("deviceorientation")}}
+- [`deviceorientation`](/es/docs/Web/Reference/Events/deviceorientation)
 - {{DOMxRef("DeviceOrientationEvent")}}
-- {{Event("devicemotion")}}
+- [`devicemotion`](/es/docs/Web/Reference/Events/devicemotion)
 - [Detecting device orientation](/es/docs/WebAPI/Detecting_device_orientation)
 - [Orientation and motion data explained](/es/DOM/Orientation_and_motion_data_explained)

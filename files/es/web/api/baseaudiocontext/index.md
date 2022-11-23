@@ -39,7 +39,7 @@ A `BaseAudioContext` can be a target of events, therefore it implements the {{do
 ### Event handlers
 
 - {{domxref("BaseAudioContext.onstatechange")}}
-  - : An event handler that runs when an event of type {{event("statechange")}} has fired. This occurs when the `AudioContext`'s state changes, due to the calling of one of the state change methods ({{domxref("AudioContext.suspend")}}, {{domxref("AudioContext.resume")}}, or {{domxref("AudioContext.close")}}).
+  - : An event handler that runs when an event of type [`statechange`](/es/docs/Web/Reference/Events/statechange) has fired. This occurs when the `AudioContext`'s state changes, due to the calling of one of the state change methods ({{domxref("AudioContext.suspend")}}, {{domxref("AudioContext.resume")}}, or {{domxref("AudioContext.close")}}).
 
 ## Methods
 
@@ -106,11 +106,9 @@ var finish = audioCtx.destination;
 // etc.
 ```
 
-## Specifications
+## Especificaciones
 
-| Specification                                                                                | Status                               | Comment |
-| -------------------------------------------------------------------------------------------- | ------------------------------------ | ------- |
-| {{SpecName('Web Audio API', '#BaseAudioContext', 'BaseAudioContext')}} | {{Spec2('Web Audio API')}} |         |
+{{Specifications}}
 
 ## Browser compatibility
 

@@ -526,6 +526,7 @@
 /zh-CN/docs/Glossary/502	/zh-CN/docs/Web/HTTP/Status/502
 /zh-CN/docs/Glossary/Bézier_curve	/zh-CN/docs/Glossary/Bezier_curve
 /zh-CN/docs/Glossary/Empty_element	/zh-CN/docs/Glossary/Void_element
+/zh-CN/docs/Glossary/Grid_Rows	/zh-CN/docs/Glossary/Grid_Row
 /zh-CN/docs/Glossary/Header	/zh-CN/docs/Glossary/HTTP_header
 /zh-CN/docs/Glossary/IP地址	/zh-CN/docs/Glossary/IP_Address
 /zh-CN/docs/Glossary/Serialize	/zh-CN/docs/Glossary/Serialization
@@ -1352,6 +1353,7 @@
 /zh-CN/docs/Web/API/DOMImplementation.hasFeature	/zh-CN/docs/Web/API/DOMImplementation/hasFeature
 /zh-CN/docs/Web/API/DOMString	/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String
 /zh-CN/docs/Web/API/DOMString/Binary	/zh-CN/docs/Web/API/btoa
+/zh-CN/docs/Web/API/DOMTimeStamp	/zh-CN/docs/Glossary/Unix_time
 /zh-CN/docs/Web/API/DeviceAcceleration	/zh-CN/docs/Web/API/DeviceMotionEventAcceleration
 /zh-CN/docs/Web/API/Document.querySelectorAll	/zh-CN/docs/Web/API/Document/querySelectorAll
 /zh-CN/docs/Web/API/Document.releaseCapture	/zh-CN/docs/Web/API/Document/releaseCapture

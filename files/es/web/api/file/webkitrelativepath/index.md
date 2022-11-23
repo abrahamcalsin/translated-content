@@ -28,7 +28,7 @@ Un {{domxref("USVString")}} conteniendo la ruta del archivo relativa al director
 
 ## Ejemplo
 
-En este ejemplo,un seleccionador de directorios es mostrado al usuario para permitirle seleccionar uno o mas directorios. Cuando el evento {{event("change")}} ocurre, una lista de todos los archivos contenidos dentro de la gerarquia de directorio seleccionado es generado y mostrado.
+En este ejemplo,un seleccionador de directorios es mostrado al usuario para permitirle seleccionar uno o mas directorios. Cuando el evento [`change`](/es/docs/Web/Reference/Events/change) ocurre, una lista de todos los archivos contenidos dentro de la gerarquia de directorio seleccionado es generado y mostrado.
 
 ### HTML
 
@@ -58,11 +58,7 @@ document.getElementById("filepicker").addEventListener("change", function(event)
 
 ## Especificaciones
 
-| Especificacion                                                                                                       | Estado                                   | Comentario              |
-| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------- |
-| {{ SpecName('File System API', '#dom-file-webkitrelativepath', 'webkitRelativePath') }} | {{ Spec2('File System API') }} | Especificacion inicial. |
-
-Esta API no tiene especificacion W3C o WHATWG.
+{{Specifications}}
 
 ## Compatibilidad con navegadores
 

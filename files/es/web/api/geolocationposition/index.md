@@ -31,13 +31,11 @@ La interfaz `Position` no implementa ni hereda ningún método.
 
 ## Especificaciones
 
-| Especificación                                                       | Estado                           | Comentario              |
-| -------------------------------------------------------------------- | -------------------------------- | ----------------------- |
-| {{SpecName('Geolocation', '#position', 'Position')}} | {{Spec2('Geolocation')}} | Especificación inicial. |
+{{Specifications}}
 
 ## Compatibilidad de navegadores
 
-{{Compat("api.Position")}}
+{{Compat}}
 
 ## Ver también
 

@@ -128,15 +128,11 @@ var myRequest = new Request('flowers.jpg', miInicializador);
 
 ## Especificaciones
 
-| Especificación                                                       | Estado                                       | Comentarios                                                                                                                                                    |
-| -------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{SpecName('Fetch','#fetch-method','fetch()')}}     | {{Spec2('Fetch')}}                     | Definida parcialmente en `WindowOrWorkerGlobalScope` en la especificación más reciente.                                                                        |
-| {{SpecName('Fetch','#dom-global-fetch','fetch()')}} | {{Spec2('Fetch')}}                     | Definición inicial                                                                                                                                             |
-| {{SpecName('Credential Management')}}                     | {{Spec2('Credential Management')}} | Añade una instancia de {{domxref("FederatedCredential")}} o {{domxref("PasswordCredential")}} como valor posible para `init.credentials`. |
+{{Specifications}}
 
 ## Compatibilidad con navegadores
 
-{{Compat("api.WindowOrWorkerGlobalScope.fetch")}}
+{{Compat}}
 
 ## Ver también
 

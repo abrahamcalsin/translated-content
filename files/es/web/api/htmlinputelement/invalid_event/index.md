@@ -78,15 +78,11 @@ function logValue(e) {
 
 ## Especificaciones
 
-| Especificación                                                                                                           | Estado                           | Comentario |
-| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ---------- |
-| {{ SpecName('HTML WHATWG', 'forms.html#the-constraint-validation-api', 'Invalid event') }} | {{Spec2('HTML WHATWG')}} |            |
-| {{ SpecName('HTML5.1', 'sec-forms.html#the-constraint-validation-api', 'Invalid event') }} | {{Spec2('HTML5.1')}}     |            |
-| {{ SpecName('HTML5 W3C', 'forms.html#the-constraint-validation-api', 'Invalid event') }}     | {{Spec2('HTML5 W3C')}}     |            |
+{{Specifications}}
 
 ## Ver también
 
 - {{domxref("GlobalEventHandlers.oninvalid")}}
 - Elemento HTML {{HtmlElement("form")}}
-- Evento relacionado: {{Event("submit")}}
+- Evento relacionado: [`submit`](/es/docs/Web/Reference/Events/submit)
 - [CSS `:invalid` pseudo class](/es/docs/Web/CSS/:invalid)
